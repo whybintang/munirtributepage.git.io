@@ -1,14 +1,25 @@
-#image {
-  margin-bottom: 2rem;
-}
+/* My Fonts */
 
-.navbar {
-  box-shadow: 1px
-    1px 1px
-    rgba(
-      0,
-      0,
-      0,
-      0.5
-    );
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Metal+Mania&display=swap");
+
+/* My CSS */
+#main h1 {
+  font-family: "Metal Mania",
+    "cursive";
+  font-size: 80px;
+}
+#main p {
+  font-family: "Metal Mania",
+    "cursive";
+  font-size: 35px;
+  margin-top: -20px;
+}
+.navbar-toggler {
+  border: 1px solid
+    white !important;
+  border-radius: 0;
+}
+a.navbar-brand,
+.navbar-nav a {
+  color: white !important;
 }
