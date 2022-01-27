@@ -44,4 +44,8 @@ a.navbar-brand,
 #tribute-info h2  {
   font-family: 'Metal Mania', 'cursive';
 }
+#profile  img  {
+  width: 150px;
+  height: 200px;
+}
 
