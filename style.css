@@ -44,8 +44,10 @@ a.navbar-brand,
 #tribute-info h2  {
   font-family: 'Metal Mania', 'cursive';
 }
-#profile  img  {
+#tribute-link  img  {
   width: 150px;
   height: 200px;
+  border-radius: 20px;
+  border: 3px solid #e8e4e4;
 }
 
