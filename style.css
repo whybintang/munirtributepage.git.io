@@ -41,3 +41,19 @@ h2 {
 #thumbs-img {
   height: 400px;
 }
+#thumbs {
+  margin-top: 15px;
+}
+#thumbs-img {
+  border: 3px solid #fff;
+  border-radius: 20px;
+}
+#card-glr {
+  border-radius: 20px;
+}
+footer p {
+  font-size: 12px;
+}
+footer p a {
+  text-decoration: none;
+}
