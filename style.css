@@ -54,9 +54,18 @@ h2 {
 #thumbs-img {
   border: 3px solid #fff;
   border-radius: 20px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
 }
 #card-glr {
   border-radius: 20px;
+}
+#photo-capt {
+  width: 50%;
+  background-color: #fff;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
 }
 footer p {
   font-size: 12px;
