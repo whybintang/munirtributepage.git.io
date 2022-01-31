@@ -10,6 +10,13 @@
 a.navbar-brand,
 .navbar-nav a {
   color: white !important;
+  border-radius: 5px;
+}
+.navbar-nav a:hover {
+  background-color: black;
+  transition: 2s;
+  border-radius: 5px;
+  color: #e8e4e4;
 }
 #main h1 {
   font-family: "Metal Mania", "cursive";
